@@ -1,0 +1,14 @@
+{
+    "files": {
+        "README.md": "11de6f95760959abe1696d2f78ba4757b9eb38fcbc8c53e2e105fa07ae35e1f1",
+        "index.js": "da9c0dd49603946d646a0a18f12f8352184a7b1d4e1f612547457d1329fc133b",
+        "module.json": "e0159f8f4990a67b07b8a09102057ae3edc2d6d406b28b900a576e5d3c08ab99"
+    },
+    "defs": {
+        "S_ACTION_STAGE": 9,
+        "S_DESPAWN_USER": 3,
+        "S_REQUEST_DESPAWN_SERVANT": 1,
+        "S_REQUEST_SPAWN_SERVANT": 2,
+        "S_SPAWN_USER": 15
+    }
+}

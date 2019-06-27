@@ -1,0 +1,6 @@
+{
+    "name": "Pet cheat detector",
+    "description": "Prints out when someone is cheating in toolbox's console",
+    "servers": ["https://raw.githubusercontent.com/vani42069/Pet-cheat-detector/master/"],
+    "disableAutoUpdate": false
+}
